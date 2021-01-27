@@ -1,0 +1,3 @@
+include ':SharedPreferencesWrapper'
+include ':app'
+rootProject.name = "SharedPreferencesWrapper"
